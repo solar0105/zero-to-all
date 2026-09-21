@@ -1,0 +1,16 @@
+[
+  {
+    "text": "得之淡然，失之坦然",
+    "score": 0.89,
+    "label": "偏积极",
+    "pinyin": "dé zhī dàn rán ， shī zhī tǎn rán",
+    "created_at": "2026-09-21T03:10:01+00:00"
+  },
+  {
+    "text": "窗外小雨淋淋，窗内温馨小屋",
+    "score": 0.96,
+    "label": "偏积极",
+    "pinyin": "chuāng wài xiǎo yǔ lín lín ， chuāng nèi wēn xīn xiǎo wū",
+    "created_at": "2026-09-21T03:10:52+00:00"
+  }
+]
